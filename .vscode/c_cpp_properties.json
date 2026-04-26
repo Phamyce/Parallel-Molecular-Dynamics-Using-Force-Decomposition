@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\maxjt\\AppData\\Local\\Programs\\Python\\Python312\\Include",
+                "C:\\Users\\maxjt\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pybind11\\include"
+            ],
+            "compilerPath": "C:\\MinGW\\bin\\g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
